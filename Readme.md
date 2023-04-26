@@ -1,19 +1,19 @@
-# T.Rishitha
+# Tanguturu Rishitha
 
 ---
 
 
 **Email:** rishithasvck@gmail.com\
 **Mobile:** 9989768514\
-**LinkedIn:** https://www.linkedin.com/in/tanguturu-rishitha-67b563242/
-**GitHub:** github.com/rishitha-t\
-**Portfolio:** rishithat.netlify.app
+**LinkedIn:** https://www.linkedin.com/in/tanguturu-rishitha-67b563242/ \
+**GitHub:** [[github.com/rishitha-t\](https://tangutururishitha.github.io/)](https://github.com/Tangutururishitha) \
+**Portfolio:** [tangutururishitha.github.io](https://tangutururishitha.github.io/)
 
 ---
 
 ## Career Objective:
 
-To work in a pragmatic way in a reputed IT company where I can show my talent and enhance my skills to meet personal goals along with organizational goals.
+As a recent engineering graduate, my goal is to secure a software engineering position in a reputable IT company where I can apply my technical skills and knowledge to contribute to the development of cutting-edge software solutions. I am eager to learn and grow in a dynamic and collaborative work environment, and I am committed to enhancing my skills to meet both personal and organizational goals.
 
 ---
 
@@ -31,7 +31,7 @@ To work in a pragmatic way in a reputed IT company where I can show my talent an
 
 | Programming Language | Expertise Level |
 |---------------------| ---------------|
-| PYTHON              | Intermediate   |
+| PYTHON              | Perficient     |
 | C                   | Intermediate   |
 | JAVA                | Intermediate   |
 | HTML                | Intermediate   |
