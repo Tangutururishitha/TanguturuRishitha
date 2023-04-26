@@ -43,7 +43,16 @@ As a recent engineering graduate, my goal is to secure a software engineering po
 ### Image Classification using CNN
 
 Deep Learning has emerged as a new area in machine learning and is applied to a number of signal and image applications. The main purpose of the work presented in this paper, is to apply the concept of a Deep Learning algorithm namely, Convolutional neural networks (CNN) in image classification.
-
+- Image classification is a fundamental task in computer vision
+- Convolutional Neural Networks (CNNs) are a popular deep learning algorithm for image classification
+- CNNs can automatically learn and extract relevant features from input images
+- To build an image classification system using CNNs, pre-processing the images is necessary
+- CNN architecture consists of convolutional and pooling layers followed by fully connected layers
+- Training a CNN involves supervised learning using a dataset of labeled images and backpropagation
+- Python and deep learning frameworks such as TensorFlow and PyTorch are essential for implementing an image classification system using CNNs
+- A large dataset of labeled images is necessary for training and testing the CNN
+- Implementing an image classification system using CNNs is a challenging and exciting project in computer vision with real-world applications
+- The outcome of this project is a robust and accurate image classification system applicable to a wide range of image processing applications.
 ---
 
 ## Personal Appraisal:
