@@ -5,7 +5,7 @@
 
 **Email:** rishithasvck@gmail.com\
 **Mobile:** 9989768514\
-**LinkedIn:** [Tanguturu Rishitha]https://www.linkedin.com/in/tanguturu-rishitha-67b563242/ \
+**LinkedIn:** [Tanguturu Rishitha](https://www.linkedin.com/in/tanguturu-rishitha-67b563242/) \
 **GitHub:** [Tanguturu rishitha](https://github.com/Tangutururishitha) \
 **Portfolio:** [tangutururishitha.github.io](https://tangutururishitha.github.io/)
 
