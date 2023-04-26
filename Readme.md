@@ -53,6 +53,7 @@ Deep Learning has emerged as a new area in machine learning and is applied to a 
 - A large dataset of labeled images is necessary for training and testing the CNN
 - Implementing an image classification system using CNNs is a challenging and exciting project in computer vision with real-world applications
 - The outcome of this project is a robust and accurate image classification system applicable to a wide range of image processing applications.
+
 ---
 
 ## Personal Appraisal:
